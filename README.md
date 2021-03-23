@@ -1,2 +1,2 @@
 # Project
-Donc voilà le projet
+Donc voilà le projet. Merci !
